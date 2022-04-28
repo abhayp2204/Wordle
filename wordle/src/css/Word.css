@@ -1,0 +1,9 @@
+.word {
+    padding: 1px;
+}
+
+.word :hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}

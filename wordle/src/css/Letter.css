@@ -1,0 +1,15 @@
+.letter {
+    background-color: white;
+    color: black;
+    text-align: center;
+    border: 3px solid black;
+    
+    --size: 36px;
+    width:  var(--size);
+    height: var(--size);
+    line-height: var(--size);
+    font-size: 30px;
+
+    padding: 10px;
+    display: inline-block;
+}

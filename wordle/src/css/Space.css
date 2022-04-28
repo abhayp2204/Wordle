@@ -1,0 +1,21 @@
+.space {
+    background-color: yellow;
+    background-color: #141414;
+
+    position: absolute;
+
+    height: 30em;
+    width: 100%;
+
+    text-align: center;
+}
+
+.space .pad {
+    background-color: #141414;
+
+    height: 25em;
+    width: 25%;
+
+    margin-top: 2em;
+    margin-left: 36em;
+}
