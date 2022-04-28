@@ -1,0 +1,14 @@
+.navbar {
+    --line: 2.5em;
+
+    background-color: black;
+    color: white;
+
+    width: 100%;
+    height: var(--line);
+
+    line-height: var(--line);
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
